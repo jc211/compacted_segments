@@ -1,9 +1,9 @@
 # Compacted Segments
 Provides a means of storing variable length data such as (T1, D), (T2, D), (T3, D). It also provides a sampler that can output (F, D) where F is a fixed dimension.
 
-<div style="display:flex">
-<img src="assets/compacted_data.png" style="margin-right: 16px; width:65%"/>
-<img src="assets/fixed_sized_data.png" style="width:30%"/>
+<div style="display:flex; justify-content: center;">
+<img src="assets/compacted_data.png" style="margin-right:16px; max-width: 65%; height:auto"/>
+<img src="assets/fixed_sized_data.png" style="height:auto; max-width: 30%"/>
 </div>
 
 
